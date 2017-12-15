@@ -1,5 +1,5 @@
 # barbutton
-Demo project to show nav bar behaviour
+Sample project to show incoorect nav bar behaviour in iOS 11.2
 
 
 To reproduce using iOS 11.2:
